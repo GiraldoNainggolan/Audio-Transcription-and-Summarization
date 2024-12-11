@@ -11,6 +11,14 @@ This project transcribes audio files into text using the Whisper model and summa
 6. [License](#license)
 7. [Acknowledgments](#acknowledgments)
 
+## Screenshots
+
+### Website Interface
+![Website Interface](websitenya.png)
+
+### Backend Process
+![Backend Process](backendnya.png)
+
 ## Project Overview
 
 This project involves:
