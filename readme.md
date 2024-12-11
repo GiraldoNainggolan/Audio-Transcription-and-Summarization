@@ -46,8 +46,7 @@ Once downloaded, make sure FFmpeg is accessible via your system's PATH, or speci
 Clone this repository to your local machine:
 
 ```bash
-Salin kode
-git clone https://github.com/yourusername/yourrepository.git
+https://github.com/GiraldoNainggolan/Audio-Transcription-and-Summarization.git
 cd yourrepository
 ```
 
